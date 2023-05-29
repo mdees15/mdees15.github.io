@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+    font-family: Sans-serif;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+.homepage{
+    background-image: url("images/mtns-mos.png");
+    background-size: cover;
+}
+
+.home-header{
+    background-color: slategray;
+    padding-bottom: 30px;
+    border-bottom: 5px solid black;
+}
+
+.main-header {
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("images/mtns.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: 0 30%;
+    padding-bottom: 30px;
+    border-bottom: 5px solid grey;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .7em;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 175%;
+}
+
+.nav {
+    /*border-bottom: 1px solid grey;*/
+    padding-bottom: 50px;
+}
+
+.nav a:hover {
+    color: lightsteelblue;
+}
+
+.page-header {
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+}
+
+.page-content {
+    margin: 2em;
+    margin-left: 6em;
+}
+
+.grad-image {
+    float: right;
+    margin-left: 2em;
+    margin-right: 6em;
+    
+}
+
+.school {
+    font-size: 225%;
+    margin: 0;
+    width: 60%;
+    border-bottom: 1px solid grey;
+}
+
+.grad-date {
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.degree {
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.edu-text{
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.awards-list li {
+    padding: .4em;
+    margin: 0;
+
+}
+
+.awards {
+    margin: 0;
+    padding-top: 5px;
+}

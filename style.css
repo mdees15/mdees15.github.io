@@ -16,7 +16,6 @@ html, body{
 
 .home-header{
     background-color: slategray;
-    padding-bottom: 30px;
     border-bottom: 5px solid black;
 }
 
@@ -54,6 +53,8 @@ html, body{
     margin: 0;
     font-size: 4em;
 }
+
+/*Education classes*/
 
 .page-content {
     margin: 2em;
@@ -101,4 +102,57 @@ html, body{
 .awards {
     margin: 0;
     padding-top: 5px;
+}
+
+/*Projects classes*/
+
+.projects-title {
+    font-size: 225%;
+    margin: 0;
+    width: 80%;
+    border-bottom: 1px solid grey;
+}
+
+.projects-main{
+    margin: 2em;
+    margin-left: 6em;
+}
+
+.project-details {
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.project-details h2 {
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 175%;
+}
+
+.project-details h3 {
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+
+.project-details p {
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.project-details ul {
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.chess-app-media {
+    float: right;
+    margin: 0;
+    margin-left: 2em;
+    margin-right: 6em;
 }

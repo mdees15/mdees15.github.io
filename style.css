@@ -152,8 +152,8 @@ html, body{
 
 .project-details {
     margin: 0;
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .project-details h2 {
@@ -188,4 +188,26 @@ html, body{
     margin: 0;
     margin-left: 2em;
     margin-right: 6em;
+    border: 3px black solid;
 }
+
+.aq-device-media {
+    float: right;
+    margin: 0;
+    margin-left: 2em;
+    margin-right: 6em;
+    border: 3px black solid;
+}
+
+.unity-game-media {
+    float: right;
+    margin: 0;
+    margin-left: 2em;
+    margin-right: 6em;
+    border: 3px black solid;
+    background-color: black;
+}
+
+.horizontal-line {
+    border-bottom: 1px solid grey;
+ }

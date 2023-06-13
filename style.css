@@ -211,3 +211,10 @@ html, body{
 .horizontal-line {
     border-bottom: 1px solid grey;
  }
+
+ .gen-media {
+    float: right;
+    margin-left: 2em;
+    margin-right: 6em;
+    border: 3px black solid;
+ }

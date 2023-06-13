@@ -218,3 +218,30 @@ html, body{
     margin-right: 6em;
     border: 3px black solid;
  }
+
+ /*About me classes*/
+
+
+ .headshot {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px black solid;
+    margin-top: 2em;
+ }
+
+ .am-title {
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+    font-size: 225%;
+ }
+
+ .am-content {
+    margin-left: 10em;
+    margin-right: 10em;
+    padding-top: 30px;
+    font-size: 125%;
+    line-height: 1.5;
+ }
+ 
